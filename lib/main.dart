@@ -22,7 +22,7 @@ class _BasketBallCounterState extends State<BasketBallCounter> {
         appBar: AppBar(
           backgroundColor: Colors.orange,
           title: const Text(
-            'Points Counter Version 3 ',
+            'Points Counter Version 1',
             style: TextStyle(color: Colors.white),
           ),
         ),
